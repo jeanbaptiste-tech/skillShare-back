@@ -1,0 +1,13 @@
+[Fri Jun  6 11:42:38 2025] PHP 8.4.4 Development Server (http://localhost:8000) started
+[Fri Jun  6 11:42:43 2025] [::1]:60802 Accepted
+[Fri Jun  6 11:42:43 2025] [::1]:60803 Accepted
+[Fri Jun  6 11:42:48 2025] [::1]:60803 [200]: GET /
+[Fri Jun  6 11:42:48 2025] [::1]:60803 Closing
+[Fri Jun  6 11:42:49 2025] [::1]:60802 [200]: GET /favicon.ico
+[Fri Jun  6 11:42:49 2025] [::1]:60802 Closing
+[Fri Jun  6 11:43:03 2025] [::1]:60816 Accepted
+[Fri Jun  6 11:43:03 2025] [::1]:60817 Accepted
+[Fri Jun  6 11:43:03 2025] [::1]:60816 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Jun  6 11:43:03 2025] [::1]:60816 Closing
+[Fri Jun  6 11:43:04 2025] [::1]:60817 [200]: POST /api/register
+[Fri Jun  6 11:43:04 2025] [::1]:60817 Closing
